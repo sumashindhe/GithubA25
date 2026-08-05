@@ -7,5 +7,6 @@ public class DemoTest
 	public void add()
 	{
 		System.out.println("add");
+		System.out.println("sub");
 	}
 }
